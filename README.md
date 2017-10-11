@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+TITLE: 
+Valet - Fully Responsive Free HTML5 template
 
-You can use the [editor on GitHub](https://github.com/laladicosa/laladicosa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+AUTHOR:
+DESIGNED & DEVELOPED by FREEHTML5.co
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CREDITS:
 
-```markdown
-Syntax highlighted code block
+Bootstrap
+http://getbootstrap.com/
 
-# Header 1
-## Header 2
-### Header 3
+jQuery
+http://jquery.com/
 
-- Bulleted
-- List
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
-1. Numbered
-2. List
+Modernizr
+http://modernizr.com/
 
-**Bold** and _Italic_ and `Code` text
+Google Fonts
+https://www.google.com/fonts/
 
-[Link](url) and ![Image](src)
-```
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+animate.css
+http://daneden.me/animate
 
-### Jekyll Themes
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laladicosa/laladicosa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Demo Images:
+http://unsplash.com
 
-### Support or Contact
+Magnific Popup:
+http://dimsemenov.com/plugins/magnific-popup/
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Themify Icons:
+https://themify.me/themify-icons
+
+Superfish
+http://users.tpg.com.au/j_birch/plugins/superfish/
+
+Hover Intent
+http://cherne.net/brian/resources/jquery.hoverIntent.html
+
+Easy Responsive Tabs to Accordion
+https://github.com/samsono/Easy-Responsive-Tabs-to-Accordion
+
+Magnific Popup
+http://dimsemenov.com/plugins/magnific-popup/
+
+Owl Carousel
+http://www.owlcarousel.owlgraphic.com/
+
